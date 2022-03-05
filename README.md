@@ -1,2 +1,0 @@
-# serverless-graphql
-Begin app
